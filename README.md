@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust programming: creating multiple mutable borrows of the same variable.  The code in `bug.rs` illustrates the error and `bugSolution.rs` provides a solution.  Understanding borrow checking is crucial for writing safe and efficient Rust code.
